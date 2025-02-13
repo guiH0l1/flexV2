@@ -1,4 +1,4 @@
-![GitHub License](https://img.shields.io/github/license/PatrickHeiisen/flexV2)
+![GitHub License](https://img.shields.io/github/license/guiH0l1/flexV2)
 
 
 # APP Flex
