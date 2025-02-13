@@ -11,4 +11,4 @@ Guilherme Holi
 ## Download do APP
 Scaneie o Qr Code para ser direcionado ao site que hospeda o aplicativo. Adicione a tela inicial o APP seguindo as informações do seu smartphone
 
-![]()
+![](img/qrcode.png)
